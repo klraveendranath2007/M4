@@ -25,13 +25,6 @@ To write a C Program to perform the basic left shift operation for 44 integer nu
 ![image](https://github.com/user-attachments/assets/fe428eca-6482-435a-aca9-03339f7d2b17)
 
 
-
-
-
-
-
-
-
 ## RESULT
 Thus the program to perform the basic left shift operation for 44 integer number with 3 shifts has been executed successfully.
 
